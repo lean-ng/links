@@ -1,2 +1,5 @@
-# ngx-resources
-Angular Resources and Links
+# Angular Resources 
+
+## Official Links
+
+* [Angular](https://angular.io)
