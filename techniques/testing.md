@@ -13,3 +13,14 @@
 * https://www.dev6.com/Angular-Unit-Testing-Tips-n-Tricks
 * https://auth0.com/blog/angular-testing-in-depth-components/
 * https://medium.com/@AikoPath/testing-angular-components-with-input-3bd6c07cfaf6
+
+# E2E Testing
+
+## Protractor
+
+* [Angular Sync](http://agibalov.io/2017/05/19/How-do-Protractor-and-Angular-synchronize/)
+
+## Alternative E2E Testing Frameworks
+
+* [Codecept](https://codecept.io/)
+* [Nightwatch.js](http://nightwatchjs.org/)
