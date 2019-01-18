@@ -18,6 +18,7 @@
 
 ## Protractor
 
+* [Getting started](https://code.tutsplus.com/tutorials/getting-started-with-end-to-end-testing-in-angular-using-protractor--cms-29318)
 * [Angular Sync](http://agibalov.io/2017/05/19/How-do-Protractor-and-Angular-synchronize/)
 
 ## Alternative E2E Testing Frameworks
