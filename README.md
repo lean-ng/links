@@ -4,6 +4,8 @@ Inhaltsverzeichnis
 
 * [Angular Projekt](https://github.com/lean-ng/links#offizielle-angular-projekt-links)
 * [Blogs](https://github.com/lean-ng/links#blogs)
+* [Cheat Sheets](https://github.com/lean-ng/links#cheat-sheets)
+* [CLI Changelog](https://github.com/lean-ng/links#cli-changelog)
 
 ## Offizielle Angular Projekt-Links
 
@@ -41,3 +43,13 @@ Die folgenden Blogs sind zum Thema Angular nicht mehr unbedingt aktuell, es werd
 * [Thoughtram](https://blog.thoughtram.io) Artikel bis März 2019
 * [Angular University](https://blog.angular-university.io/) Achtung: aller Artikel sind datiert auf Januar 2023, sind aber viel älter.
 * [Victor Savkin](https://vsavkin.com/) Artikel bis Juli 2016
+
+## Cheat Sheets
+
+* [Angular.io](https://angular.io/guide/cheatsheet)
+* [Malcoded](https://malcoded.com/angular-cheat-sheet/)
+
+## CLI Changelog
+
+* [GitHub Repo mit Diffs für alle CLI Versionen](https://github.com/cexbrayat/angular-cli-diff)
+* [Whats new in CLI x.y?](https://blog.ninja-squad.com/tags.html#Angular%20CLI-ref)
