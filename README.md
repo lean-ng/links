@@ -1,4 +1,11 @@
-# Offizielle Angular Projekt-Links
+# Angular Linksammlung
+
+Inhaltsverzeichnis
+
+* [Angular Projekt](https://github.com/lean-ng/links#offizielle-angular-projekt-links)
+* [Blogs](https://github.com/lean-ng/links#blogs)
+
+## Offizielle Angular Projekt-Links
 
 * [Angular Homepage](https://angular.io)
 	- [Dokumentation](https://angular.io/docs)
@@ -8,11 +15,11 @@
 * [Update Guide](https://update.angular.io/)
 * [Angular Material](https://material.angular.io/)
 
-# Blogs
+## Blogs
 
 Neben dem offiziellen [Angular Blog](https://blog.angular.io/), der immer zu konsultieren ist bei neuen Releases - aber auch grundsätzliche zukünftige Richtungsänderungen des Angular Universums ankündigt, gibt es einige herausragende Blogger in der Angular Welt.
 
-## Empfehlungen
+### Empfehlungen
 
 * [Netanel Basal](https://netbasal.com/)
 * [Ninja Squad](https://blog.ninja-squad.com/tags.html#Angular-ref)
@@ -22,7 +29,7 @@ Neben dem offiziellen [Angular Blog](https://blog.angular.io/), der immer zu kon
 * [Christian Lüdemann](https://christianlydemann.com/blog/)
 * [Daniel Kreider](https://danielk.tech/)
 
-## Archiv
+### Archiv
 
 Die folgenden Blogs sind zum Thema Angular nicht mehr unbedingt aktuell, es werden keine (oder kaum) neue Artikel mehr veröffentlicht. Hier lohnt aber durchaus ein Stöbern im jeweiligen Archiv - insbesondere zu stabilen Themen um Angular und das Ecosystem herum.
 
