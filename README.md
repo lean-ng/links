@@ -11,7 +11,7 @@ Inhaltsverzeichnis
 * [Forms](https://github.com/lean-ng/links#forms)
 * [Testing](https://github.com/lean-ng/links#testing)
 * [Libraries](https://github.com/lean-ng/links#libraries)
-* [Resources](https://github.com/lean-ng/links#other)
+* [Resources](https://github.com/lean-ng/links#andere-quellen-sammlungen)
 
 ## Offizielle Angular Projekt-Links
 
@@ -195,7 +195,7 @@ im Umfeld von Angular Anwendungen empfehle ich als Startpunkt
 
 * [NgNeat](https://github.com/ngneat)
 
-## Andere Quellen-Sammlungen {#other}
+## Andere Quellen-Sammlungen
 
 Als Ausgangspunkt zum Weiterstöbern können folgende Link-Sammlungen dienen. Achtung:
 nicht immer ist dort alles aktuell bzw. noch verfügbar. Beim Awesome-Projekt ist die
