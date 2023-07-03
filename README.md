@@ -7,7 +7,11 @@ Inhaltsverzeichnis
 * [Cheat Sheets](https://github.com/lean-ng/links#cheat-sheets)
 * [CLI Changelog](https://github.com/lean-ng/links#cli-changelog)
 * [Change Detection](https://github.com/lean-ng/links#change-detection)
+* [RxJS](https://github.com/lean-ng/links#rxjs)
 * [Forms](https://github.com/lean-ng/links#forms)
+* [Testing](https://github.com/lean-ng/links#testing)
+* [Libraries](https://github.com/lean-ng/links#libraries)
+* [Resources](https://github.com/lean-ng/links#other)
 
 ## Offizielle Angular Projekt-Links
 
@@ -109,7 +113,7 @@ oder anderen *Aha*-Moment.
 Und ein etwas älterer Artikel (API-Version nicht mehr aktuell) über ein
 Standard-Problem (Caching von HTTP-Requests) und dessen Lösung mit RxJS zeigt:
 
-[Advanced Caching with RxJS](https://blog.thoughtram.io/angular/2018/03/05/advanced-caching-with-rxjs.html)
+* [Advanced Caching with RxJS](https://blog.thoughtram.io/angular/2018/03/05/advanced-caching-with-rxjs.html)
 
 ## Forms
 
@@ -191,7 +195,7 @@ im Umfeld von Angular Anwendungen empfehle ich als Startpunkt
 
 * [NgNeat](https://github.com/ngneat)
 
-## Andere Quellen-Sammlungen
+## Andere Quellen-Sammlungen {#other}
 
 Als Ausgangspunkt zum Weiterstöbern können folgende Link-Sammlungen dienen. Achtung:
 nicht immer ist dort alles aktuell bzw. noch verfügbar. Beim Awesome-Projekt ist die
