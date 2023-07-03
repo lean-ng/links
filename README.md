@@ -58,7 +58,7 @@ Die folgenden Blogs sind zum Thema Angular nicht mehr unbedingt aktuell, es werd
 
 ## Change Detection
 
-Der aktuell beste Artikel zum Thema stammt von Max Koretskyi - steigt aber wirklich in die Tiefen von Angular App. Nicht ganz perfekt aber sehr anschaulich visualisiert die Demo-Anwendung von Daniel Wiehl die Mechanismen und Auswirkungen.
+Der aktuell beste Artikel zum Thema stammt von Max Koretskyi - steigt aber wirklich in die Tiefen von Angular ab. Nicht ganz perfekt aber sehr anschaulich visualisiert die Demo-Anwendung von Daniel Wiehl die Mechanismen und Auswirkungen.
 
 * [Deep Dive von Max Koretskyi](https://indepth.dev/posts/1515/deep-dive-into-the-onpush-change-detection-strategy-in-angular)
 * Demo-App von Daniel Wiehl
@@ -76,6 +76,40 @@ vielleicht werden sie ja irgendwann nochmal "repariert" ;-)
 * [Victor Savkin](https://vsavkin.com/change-detection-in-angular-2-4f216b855d4c)
 * [Netanel Basal](https://netbasal.com/a-comprehensive-guide-to-angular-onpush-change-detection-strategy-5bac493074a4)
 * [Minko Gechev](https://blog.mgechev.com/2017/11/11/faster-angular-applications-onpush-change-detection-immutable-part-1/)
+
+## RxJS
+
+- [Homepage](https://rxjs.dev/)
+
+Die Haupt-Schwierigkeit bei vielen Artikeln und Tutorials ist für uns oft, einzugrenzen
+welcher API-Version der jeweilige Autor folgt. Alles vor der RxJS-Version 6 ist definitiv
+veraltet (Wechsel im Früjahr 2018 mit Angular 6). Version 7 kam im Frühjahr 2021 heraus,
+Angular wechselte im Herbst mit dem 13er Release.
+
+Die mit Angular 16 eingeführten [Signals](https://angular.io/guide/signals) (aktuell noch
+Developer Preview) werden sicherlich eine relevante Veränderung in der Nutzung von RxJS
+haben. Synchrone reaktive State-Programmierung wird wesentlich einfacher mit Signalen zu
+implementieren sein.
+
+### Tutorials
+
+- [Learn RxJS](https://www.learnrxjs.io/)
+- [What are Observables? - Artikelserie](https://dev.to/bhagatparwinder/what-are-observables-khb)
+
+### Artikel
+
+Die folgenden Artikel/Beiträge erklären nicht nur die jeweiligen RxJS-Operatoren,
+sondern liefern ebenso ein tieferes Verständnis für RxJS allgemein bzw. den einen
+oder anderen *Aha*-Moment.
+
+- [Operator share vs shareReplay](https://www.bitovi.com/blog/always-know-when-to-use-share-vs.-sharereplay)
+- [Sharing Operators](https://itnext.io/the-magic-of-rxjs-sharing-operators-and-their-differences-3a03d699d255)
+- [RxJs Mapping: switchMap vs mergeMap vs concatMap vs exhaustMap](https://blog.angular-university.io/rxjs-higher-order-mapping/)
+
+Und ein etwas älterer Artikel (API-Version nicht mehr aktuell) über ein
+Standard-Problem (Caching von HTTP-Requests) und dessen Lösung mit RxJS zeigt:
+
+[Advanced Caching with RxJS](https://blog.thoughtram.io/angular/2018/03/05/advanced-caching-with-rxjs.html)
 
 ## Forms
 
@@ -109,3 +143,50 @@ mit den üblichen Anforderungen aus dem anderen Ansatz zu erweitern.
 * [Practical Guide, November 2022](https://timdeschryver.dev/blog/a-practical-guide-to-angular-template-driven-forms)
 * [Template Forms with Reactive State](https://blog.simplified.courses/template-driven-or-reactive-forms-in-angular/)
 * [Say Goodbye to custom validators](https://blog.simplified.courses/say-goodbye-to-custom-form-validators-in-angular/)
+
+## Testing
+
+Beim Thema Test von Angular Anwendungen ist zunächst wichtig, abzugrenzen welche
+Frameworks und Bibliotheken zum Einsatz kommen (sollten):
+
+* Test Runner:
+  - Aktuell: [Karma](https://karma-runner.github.io/latest/index.html)
+  - Alternative: [Jest](https://jestjs.io/)
+* Test Framework:
+  - Aktuell: [Jasmine](https://jasmine.github.io/)
+  - Alternative: [Jest](https://jestjs.io/)
+* Hilfs-Bibliotheken:
+  - Aktuell: Angular Testing Utilities/Tools
+  - Alternativen: [Angular Testing Library](https://testing-library.com/docs/angular-testing-library/intro) oder [Spectator](https://ngneat.github.io/spectator/)
+
+Im Bereich E2E-Testing hat Angular schon den Wechsel vollzogen und mit Angular 12 das
+veraltete Protractor-Framework aus dem Standard-Template rausgeworfen:
+[State of End-To-End Testing](https://blog.angular.io/the-state-of-end-to-end-testing-with-angular-d175f751cb9c)
+Beim Unit-Testing gibt es ähnliche Überlegungen zum Wechsel von Karma/Jasmine zu Jest: 
+[Moving Angular CLI to Jest](https://blog.angular.io/moving-angular-cli-to-jest-and-web-test-runner-ef85ef69ceca).
+
+### Ebooks/Artikel
+
+* [Testing Ebook (Jasmine, Spectator und Cypress)](https://testing-angular.com/)
+* [Einfachere Tests mit der Testing Library](https://timdeschryver.dev/blog/good-testing-practices-with-angular-testing-library)
+
+## Libraries
+
+Angular liefert als Framework ein Komplett-Paket mit allem an Bord, um produktive
+Anwendungen zu schreiben. Dennoch muss man das Rad nicht komplett neu erfinden und
+kann bei bestimmten Themen auf vorgefertigte Hilfs-Bibliotheken oder ganze Libraries
+setzen. Oft werden solche Lösungen beim globalen State-Management eingesetzt:
+
+* [Elf](https://ngneat.github.io/elf/)
+* [NGRX](https://ngrx.io/)
+* [NGXS](https://www.ngxs.io/)
+* [Akita](https://opensource.salesforce.com/akita/)
+* [RxAngular State](https://www.rx-angular.io/docs/state)
+
+In obiger Liste ist Elf die schlankeste Lösung, NGRX sicherlich die mächtigste - aber
+auch komplexeste Variante. Der Rest liegt irgendwo dazwischen.
+
+Als Ausgangspunkt zum Stöbern nach kleineren (und größeren) Lösungen für andere Aufgaben
+im Umfeld von Angular Anwendungen empfehle ich als Startpunkt
+
+* [NgNeat](https://github.com/ngneat)
