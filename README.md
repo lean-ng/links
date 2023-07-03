@@ -190,3 +190,12 @@ Als Ausgangspunkt zum Stöbern nach kleineren (und größeren) Lösungen für an
 im Umfeld von Angular Anwendungen empfehle ich als Startpunkt
 
 * [NgNeat](https://github.com/ngneat)
+
+## Andere Quellen-Sammlungen
+
+Als Ausgangspunkt zum Weiterstöbern können folgende Link-Sammlungen dienen. Achtung:
+nicht immer ist dort alles aktuell bzw. noch verfügbar. Beim Awesome-Projekt ist die
+verlinkte Webseite definitiv veraltet.
+
+* [Angular Learning Resources](https://github.com/avatsaev/angular-learning-resources)
+* [Awesome Angular](https://github.com/PatrickJS/awesome-angular)
