@@ -166,12 +166,13 @@ Frameworks und Bibliotheken zum Einsatz kommen (sollten):
 Im Bereich E2E-Testing hat Angular schon den Wechsel vollzogen und mit Angular 12 das
 veraltete Protractor-Framework aus dem Standard-Template rausgeworfen:
 [State of End-To-End Testing](https://blog.angular.io/the-state-of-end-to-end-testing-with-angular-d175f751cb9c)
-Beim Unit-Testing gibt es ähnliche Überlegungen zum Wechsel von Karma/Jasmine zu Jest: 
-[Moving Angular CLI to Jest](https://blog.angular.io/moving-angular-cli-to-jest-and-web-test-runner-ef85ef69ceca).
+Beim Unit-Testing gibt es ähnliche Überlegungen zum Wechsel von Karma (seit April 2023 mit dem Status **deprecated**) 
+/ Jasmine zu Jest: [Moving Angular CLI to Jest](https://blog.angular.io/moving-angular-cli-to-jest-and-web-test-runner-ef85ef69ceca).
 
 ### Ebooks/Artikel
 
 * [Testing Ebook (Jasmine, Spectator und Cypress)](https://testing-angular.com/)
+* [Angular Testing - Past, Present and Future](https://dev.to/this-is-angular/angular-testing-in-2023-past-present-and-future-j5m)
 * [Einfachere Tests mit der Testing Library](https://timdeschryver.dev/blog/good-testing-practices-with-angular-testing-library)
 
 ## Libraries
