@@ -204,3 +204,7 @@ verlinkte Webseite definitiv veraltet.
 
 * [Angular Learning Resources](https://github.com/avatsaev/angular-learning-resources)
 * [Awesome Angular](https://github.com/PatrickJS/awesome-angular)
+
+## Beispiel-Anwendungen
+
+* [Angular Nordwind mit Material](https://github.com/danielschmitz/my-sales-aapp)
