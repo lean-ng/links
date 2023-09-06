@@ -36,6 +36,7 @@ Neben dem offiziellen [Angular Blog](https://blog.angular.io/), der immer zu kon
 * [Nx Blog](https://blog.nrwl.io/angular/home)
 * [Christian Lüdemann](https://christianlydemann.com/blog/)
 * [Daniel Kreider](https://danielk.tech/)
+* [Angular Experts](https://angularexperts.io/blog)
 
 ### Archiv
 
@@ -55,6 +56,10 @@ Die folgenden Blogs sind zum Thema Angular nicht mehr unbedingt aktuell, es werd
 * [Angular.io](https://angular.io/guide/cheatsheet)
 * [Malcoded](https://malcoded.com/angular-cheat-sheet/)
 
+## Tutorials
+
+* [Angular Challanges](https://github.com/tomalaforge/angular-challenges)
+  
 ## CLI Changelog
 
 * [GitHub Repo mit Diffs für alle CLI Versionen](https://github.com/cexbrayat/angular-cli-diff)
@@ -195,6 +200,10 @@ Als Ausgangspunkt zum Stöbern nach kleineren (und größeren) Lösungen für an
 im Umfeld von Angular Anwendungen empfehle ich als Startpunkt
 
 * [NgNeat](https://github.com/ngneat)
+
+## Angular Server/Universal/Fullstack
+
+* [Analog](https://analogjs.org/)
 
 ## Andere Quellen-Sammlungen
 
