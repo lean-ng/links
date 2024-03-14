@@ -192,6 +192,7 @@ setzen. Oft werden solche Lösungen beim globalen State-Management eingesetzt:
 * [NGXS](https://www.ngxs.io/)
 * [Akita](https://opensource.salesforce.com/akita/)
 * [RxAngular State](https://www.rx-angular.io/docs/state)
+* [Tanstack Query](https://tanstack.com/query/latest/docs/framework/angular/overview) - Noch experimentell bezeichnet
 
 In obiger Liste ist Elf die schlankeste Lösung, NGRX sicherlich die mächtigste - aber
 auch komplexeste Variante. Der Rest liegt irgendwo dazwischen.
