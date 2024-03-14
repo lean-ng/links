@@ -11,6 +11,7 @@ Inhaltsverzeichnis
 * [Forms](https://github.com/lean-ng/links#forms)
 * [Testing](https://github.com/lean-ng/links#testing)
 * [Libraries](https://github.com/lean-ng/links#libraries)
+* [UI Libraries/Frameworks](https://github.com/lean-ng/links#ui-libraries)
 * [Resources](https://github.com/lean-ng/links#andere-quellen-sammlungen)
 
 ## Offizielle Angular Projekt-Links
@@ -201,6 +202,21 @@ Als Ausgangspunkt zum Stöbern nach kleineren (und größeren) Lösungen für an
 im Umfeld von Angular Anwendungen empfehle ich als Startpunkt
 
 * [NgNeat](https://github.com/ngneat)
+
+## UI Libraries
+
+Linklisten wie zum Beispiel [Angular Enterprice - UI Libraries](https://angular-enterprise.com/en/ngpost/resources/libraries/interface/) haben über 40 Verweise
+auf UI-Bibliotheken und -Frameworks. Über den Entwicklungsstatus vieler dieser kann ich keine Aussagen treffen, viele werden entweder veraltet und/oder nicht mehr
+gewartet sein. Deshalb hier nur eine kurze Liste der *interessantesten* Vertreter:
+
+- [Angular Material](https://material.angular.io/) - Offizielle Bibliothek mit Komponenten im Material Design (enthält außerdem das wichtige Component Developer Kit -
+[Angular CDK](https://material.angular.io/cdk/categories), das Bestandteil vieler der folgenden Bibliotheken ist). Ist definitiv kein Framework, also auch viel Handarbeit
+notwendig um Anwendungen damit zu gestalten.
+- [PrimeNG](https://primeng.org/) - Vielleicht die umfangreichste Bibliothek im Angular Umfeld. Bietet auch kommerzielle Pakete und Templates für komplette Lösungen an. Kann
+auch mit Hilfe von [TailwindCSS](https://tailwindcss.com/) oder [PrimeFlex](https://primeflex.org/) *headless* eingesetzt und designed werden.
+- [Clarity](https://clarity.design/) - OpenSource Design System von VMware
+- [Nebular](https://akveo.github.io/nebular/) - Kleineres Team - aber auch bekannt für das [Angular Admin Dashboard](https://akveo.github.io/ngx-admin/)
+- [Spartan](https://www.spartan.ng/) - Noch in der Entwiclung, auch als Headless UI - Bibliothek nutzbar. (Und nicht nur eine UI Bibliothek)
 
 ## Angular Server/Universal/Fullstack
 
