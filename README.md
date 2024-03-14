@@ -24,7 +24,7 @@ Inhaltsverzeichnis
 * [Update Guide](https://update.angular.io/)
 * [Angular Material](https://material.angular.io/)
 
-Die Programmierung von Angular Anwendungen hat insbesondere mit den letzten Versionen seit Angular 15 (schließt man **Developer Preview**-Fetaures mit ein sogar seit
+Die Programmierung von Angular Anwendungen hat insbesondere mit den letzten Versionen seit Angular 15 (schließt man **Developer Preview**-Features mit ein sogar seit
 Angular 14) neue *Fahrt* aufgenommen. Auch offiziell will man dieser Entwicklung Nachdruck geben und hat eine neue Entwicklerseite öffentlich gestellt:
 
 * [https://angular.dev](https://angular.dev/) - Zur Zeit noch im Beta-Status
