@@ -38,6 +38,8 @@ Neben dem offiziellen [Angular Blog](https://blog.angular.io/), der immer zu kon
 * [Christian Lüdemann](https://christianlydemann.com/blog/)
 * [Daniel Kreider](https://danielk.tech/)
 * [Angular Experts](https://angularexperts.io/blog)
+* [JustAngular.com von Enea Jahollari](https://justangular.com/)
+* [Angular Architects von Manfred Steyer](https://www.angulararchitects.io/blog/)
 
 ### Archiv
 
