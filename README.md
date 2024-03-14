@@ -24,6 +24,13 @@ Inhaltsverzeichnis
 * [Update Guide](https://update.angular.io/)
 * [Angular Material](https://material.angular.io/)
 
+Die Programmierung von Angular Anwendungen hat insbesondere mit den letzten Versionen seit Angular 15 (schließt man **Developer Preview**-Fetaures mit ein sogar seit
+Angular 14) neue *Fahrt* aufgenommen. Auch offiziell will man dieser Entwicklung Nachdruck geben und hat eine neue Entwicklerseite öffentlich gestellt:
+
+* [https://angular.dev](https://angular.dev/) - Zur Zeit noch im Beta-Status
+
+Hier wird die komplette Dokumentation einschließlich Tutorials und Guides neu angefasst, durchdacht und an die Neuerungen angepasst.
+
 ## Blogs
 
 Neben dem offiziellen [Angular Blog](https://blog.angular.io/), der immer zu konsultieren ist bei neuen Releases - aber auch grundsätzliche zukünftige Richtungsänderungen des Angular Universums ankündigt, gibt es einige herausragende Blogger in der Angular Welt.
