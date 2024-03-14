@@ -58,7 +58,7 @@ Die folgenden Blogs sind zum Thema Angular nicht mehr unbedingt aktuell, es werd
 
 ## Tutorials
 
-* [Angular Challanges](https://github.com/tomalaforge/angular-challenges)
+* [Angular Challenges](https://github.com/tomalaforge/angular-challenges)
   
 ## CLI Changelog
 
