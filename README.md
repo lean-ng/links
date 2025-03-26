@@ -5,6 +5,7 @@ Inhaltsverzeichnis
 * [Angular Projekt](https://github.com/lean-ng/links#offizielle-angular-projekt-links)
 * [Blogs](https://github.com/lean-ng/links#blogs)
 * [Cheat Sheets](https://github.com/lean-ng/links#cheat-sheets)
+* [Tutorials](https://github.com/lean-ng/links#tutorials)
 * [CLI Changelog](https://github.com/lean-ng/links#cli-changelog)
 * [Change Detection](https://github.com/lean-ng/links#change-detection)
 * [RxJS](https://github.com/lean-ng/links#rxjs)
@@ -13,23 +14,32 @@ Inhaltsverzeichnis
 * [Libraries](https://github.com/lean-ng/links#libraries)
 * [UI Libraries/Frameworks](https://github.com/lean-ng/links#ui-libraries)
 * [Resources](https://github.com/lean-ng/links#andere-quellen-sammlungen)
+* [Beispiel Anwendungen](https://github.com/lean-ng/links#beispiel-anwendungen)
 
 ## Offizielle Angular Projekt-Links
 
-* [Angular Homepage](https://angular.io)
-	- [Dokumentation](https://angular.io/docs)
-  - [API](https://angular.io/api)
-  - [CLI](https://angular.io/cli)
-* [Angular Blog](https://blog.angular.io/)
-* [Update Guide](https://update.angular.io/)
-* [Angular Material](https://material.angular.io/)
+* [Angular Homepage](https://angular.dev)
+  - [Dokumentation](https://angular.dev/docs)
+  - [Tutorials](https://angular.dev/tutorials)
+  - [API](https://angular.dev/reference)
+  - [CLI](https://angular.dev/tools/cli)
+* [Angular Blog - leider über medium.com](https://blog.angular.dev/)
+* [Update Guide](https://angular.dev/update)
+* [Angular Material UI Library](https://material.angular.io/)
 
 Die Programmierung von Angular Anwendungen hat insbesondere mit den letzten Versionen seit Angular 15 (schließt man **Developer Preview**-Features mit ein sogar seit
-Angular 14) neue *Fahrt* aufgenommen. Auch offiziell will man dieser Entwicklung Nachdruck geben und hat eine neue Entwicklerseite öffentlich gestellt:
+Angular 14) neue *Fahrt* aufgenommen. Auch offiziell wollte man dieser Entwicklung Nachdruck geben und hat die Entwicklerseite mit Angular 18 neu veröffentlicht unter
+der obigen Homepage-Url: [https://angular.dev](https://angular.dev). Dabei wurde die komplette Dokumentation einschließlich Tutorials und Guides neu angefasst, 
+durchdacht und an die Neuerungen angepasst.
 
-* [https://angular.dev](https://angular.dev/) - Zur Zeit noch im Beta-Status
+Die älteren *Legacy*-Dokumentationen sind aber komplett abrufbar für jeder einzelne Angular-Version bis hin zu der Version 2 - die noch dreigeteilt war für die
+Verwendung des Frameworks mit TypeScript, JavaScript oder Dart:
 
-Hier wird die komplette Dokumentation einschließlich Tutorials und Guides neu angefasst, durchdacht und an die Neuerungen angepasst.
+* [Version 17](https://v17.angular.io/docs)
+* [Version 16](https://v16.angular.io/docs)
+* ...
+* [Version 4](https://v4.angular.io/docs)
+* [Version 2](https://v2.angular.io/docs)
 
 ## Blogs
 
