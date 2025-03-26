@@ -5,7 +5,6 @@ Inhaltsverzeichnis
 * [Angular Projekt](https://github.com/lean-ng/links#offizielle-angular-projekt-links)
 * [Blogs](https://github.com/lean-ng/links#blogs)
 * [Ebooks](https://github.com/lean-ng/links#ebooks)
-* [Cheat Sheets](https://github.com/lean-ng/links#cheat-sheets)
 * [Tutorials](https://github.com/lean-ng/links#tutorials)
 * [CLI Changelog](https://github.com/lean-ng/links#cli-changelog)
 * [Change Detection](https://github.com/lean-ng/links#change-detection)
@@ -80,11 +79,6 @@ Teilweise bloggen die Entwickler auf anderen oben von mir gelisteten Plattformen
 - [Angular Testing Book - Daniel Kreider](https://subscribepage.io/angular_testing_book)
 - [Angular Performance Guide - Daniel Kreider](https://subscribepage.io/angular_performance)
   
-## Cheat Sheets
-
-* [Angular.io](https://angular.io/guide/cheatsheet)
-* [Malcoded](https://malcoded.com/angular-cheat-sheet/)
-
 ## Tutorials
 
 * [Angular Challenges](https://github.com/tomalaforge/angular-challenges)
