@@ -54,6 +54,7 @@ Neben dem offiziellen [Angular Blog](https://blog.angular.dev/), der immer zu ko
 * [Nx Blog - letzter Beitrag Februar 23](https://blog.nrwl.io/angular/home)
 * [Christian Lüdemann](https://christianlydemann.com/blog/)
 * [Daniel Kreider](https://danielk.tech/)
+* [Angular Love](https://angular.love/) - Recht neue Plattform - u.a. [Angular-In-Depth](https://indepth.dev) ist da untergekommen
 * [Angular Experts](https://angularexperts.io/blog)
 * [JustAngular.com von Enea Jahollari](https://justangular.com/blog)
 * [Angular Architects von Manfred Steyer](https://www.angulararchitects.io/blog/)
@@ -92,7 +93,7 @@ Teilweise bloggen die Entwickler auf anderen oben von mir gelisteten Plattformen
 
 Der aktuell beste Artikel zum Thema stammt von Max Koretskyi - steigt aber wirklich in die Tiefen von Angular ab. Nicht ganz perfekt aber sehr anschaulich visualisiert die Demo-Anwendung von Daniel Wiehl die Mechanismen und Auswirkungen.
 
-* [Deep Dive von Max Koretskyi](https://indepth.dev/posts/1515/deep-dive-into-the-onpush-change-detection-strategy-in-angular)
+* [Deep Dive von Max Koretskyi](https://medium.com/angular-in-depth/everything-you-need-to-know-about-change-detection-in-angular-8006c51d206f)
 * Demo-App von Daniel Wiehl
   - [GitHub Repository](https://github.com/danielwiehl/edu-angular-change-detection)
   - [Anwendung](https://danielwiehl.github.io/edu-angular-change-detection/)
