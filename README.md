@@ -4,6 +4,7 @@ Inhaltsverzeichnis
 
 * [Angular Projekt](https://github.com/lean-ng/links#offizielle-angular-projekt-links)
 * [Blogs](https://github.com/lean-ng/links#blogs)
+* [Ebooks](https://github.com/lean-ng/links#ebooks)
 * [Cheat Sheets](https://github.com/lean-ng/links#cheat-sheets)
 * [Tutorials](https://github.com/lean-ng/links#tutorials)
 * [CLI Changelog](https://github.com/lean-ng/links#cli-changelog)
@@ -23,7 +24,7 @@ Inhaltsverzeichnis
   - [Tutorials](https://angular.dev/tutorials)
   - [API](https://angular.dev/reference)
   - [CLI](https://angular.dev/tools/cli)
-* [Angular Blog - leider über medium.com](https://blog.angular.dev/)
+* [Angular Blog](https://blog.angular.dev/)
 * [Update Guide](https://angular.dev/update)
 * [Angular Material UI Library](https://material.angular.io/)
 
@@ -32,7 +33,7 @@ Angular 14) neue *Fahrt* aufgenommen. Auch offiziell wollte man dieser Entwicklu
 der obigen Homepage-Url: [https://angular.dev](https://angular.dev). Dabei wurde die komplette Dokumentation einschließlich Tutorials und Guides neu angefasst, 
 durchdacht und an die Neuerungen angepasst.
 
-Die älteren *Legacy*-Dokumentationen sind aber komplett abrufbar für jeder einzelne Angular-Version bis hin zu der Version 2 - die noch dreigeteilt war für die
+Die älteren *Legacy*-Dokumentationen sind aber komplett abrufbar für jede einzelne Angular-Version bis hin zu der Version 2 - die noch dreigeteilt war für die
 Verwendung des Frameworks mit TypeScript, JavaScript oder Dart:
 
 * [Version 17](https://v17.angular.io/docs)
@@ -43,34 +44,42 @@ Verwendung des Frameworks mit TypeScript, JavaScript oder Dart:
 
 ## Blogs
 
-Neben dem offiziellen [Angular Blog](https://blog.angular.io/), der immer zu konsultieren ist bei neuen Releases - aber auch grundsätzliche zukünftige Richtungsänderungen des Angular Universums ankündigt, gibt es einige herausragende Blogger in der Angular Welt.
+Neben dem offiziellen [Angular Blog](https://blog.angular.dev/), der immer zu konsultieren ist bei neuen Releases - aber auch grundsätzliche zukünftige Richtungsänderungen des Angular Universums ankündigt, gibt es einige herausragende Blogger in der Angular Welt.
 
 ### Empfehlungen
 
-* [Netanel Basal](https://netbasal.com/)
+* [Netanel Basal](https://medium.com/netanelbasal)
 * [Ninja Squad](https://blog.ninja-squad.com/tags.html#Angular-ref)
-* [indepth.dev](https://indepth.dev/angular/)
-* [Ultimate Courses Blog](https://ultimatecourses.com/blog/category/angular)
-* [Nx Blog](https://blog.nrwl.io/angular/home)
+* [indepth.dev](https://indepth.dev/)
+* [Todd Motto - Ultimate Courses Blog - letzter Beitrag Dezember 23](https://ultimatecourses.com/blog/category/angular)
+* [Nx Blog - letzter Beitrag Februar 23](https://blog.nrwl.io/angular/home)
 * [Christian Lüdemann](https://christianlydemann.com/blog/)
 * [Daniel Kreider](https://danielk.tech/)
 * [Angular Experts](https://angularexperts.io/blog)
-* [JustAngular.com von Enea Jahollari](https://justangular.com/)
+* [JustAngular.com von Enea Jahollari](https://justangular.com/blog)
 * [Angular Architects von Manfred Steyer](https://www.angulararchitects.io/blog/)
+* [Angular University](https://blog.angular-university.io/) Achtung: viele Artikel sind falsch datiert und eigentlich viel älter. Der Blog war schon im Archiv, es erscheinen aber wieder neue Beiträge - deshalb ist die Seite wieder hochgerutscht in die Empfehlungen.
 
 ### Archiv
 
-Die folgenden Blogs sind zum Thema Angular nicht mehr unbedingt aktuell, es werden keine (oder kaum) neue Artikel mehr veröffentlicht. Hier lohnt aber durchaus ein Stöbern im jeweiligen Archiv - insbesondere zu stabilen Themen um Angular und das Ecosystem herum.
+Die folgenden Blogs sind zum Thema Angular nicht mehr unbedingt aktuell, es werden keine (oder kaum) neue Artikel mehr veröffentlicht. Hier lohnt aber durchaus ein Stöbern im
+jeweiligen Archiv - insbesondere zu stabilen Themen um Angular und das Ecosystem herum. Es sind durchaus aktive Entwickler, aber der jeweilige Blog wird nicht mehr bedient.
+Teilweise bloggen die Entwickler auf anderen oben von mir gelisteten Plattformen gemeinsam.
 
 * [Rangle.io](https://rangle.io/blog/) Rangle.io scheint ein wenig Richtung React zu kippen. Außerdem hat der Blog den Topic/Tag-Mechanismus entfernt. Ein Stöbern in den Beiträgen startet man am Besten über einen Angular-Beitrag, zum Beispiel den [aktuell letzten Artikel aus dem Mai 2023](https://rangle.io/blog/angular-schematics-for-developers-part-2).
-* [Auth0-Blog](https://auth0.com/blog/search/?query=angular)
+* [Auth0-Blog](https://auth0.com/blog/search/?query=angular) Artikel bis April 2018
 * [Juri Strumpflohner](https://juristr.com/tags/angular/) Artikel bis April 2021
-* [Minko Gechev](https://blog.mgechev.com/) Artikel bis Februar 2021
+* [Minko Gechev - Product Lead Angular](https://blog.mgechev.com/) Artikel bis Februar 2021 - Aber ein interessanter Artikel vom August 2024 [Managing Angular](https://blog.mgechev.com/2024/08/25/managing-angular/)
 * [Malcoded](https://malcoded.com/) Artikel bis Februar 2020
-* [Thoughtram](https://blog.thoughtram.io) Artikel bis März 2019
-* [Angular University](https://blog.angular-university.io/) Achtung: aller Artikel sind datiert auf Januar 2023, sind aber viel älter.
-* [Victor Savkin](https://vsavkin.com/) Artikel bis Juli 2016
+* [Thoughtram](https://blog.thoughtram.io) Artikel bis März 2019 - Leider mittlerweile komplett eingestellt - aber noch archiviert. Die Jungs waren/sind Top-Trainer im Angular-Umfeld.
+* [Victor Savkin](https://vsavkin.com/) Artikel bis Juli 2016 - Uralt Blog eines Core-Developers. Hochinteressante Beiträge zur Entstehung von Angular bzw. grundlegenden Design-Decisions.
 
+## EBooks
+
+- [Angular Mastery - Christian Lüdemann (Fokus auf Best Practices)](https://christianlydemann.com/angular-mastery-book/)
+- [Angular Testing Book - Daniel Kreider](https://subscribepage.io/angular_testing_book)
+- [Angular Performance Guide - Daniel Kreider](https://subscribepage.io/angular_performance)
+  
 ## Cheat Sheets
 
 * [Angular.io](https://angular.io/guide/cheatsheet)
