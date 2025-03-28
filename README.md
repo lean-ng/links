@@ -76,10 +76,26 @@ Teilweise bloggen die Entwickler auf anderen oben von mir gelisteten Plattformen
 
 ## EBooks
 
+### Frei
+
 - [Angular Mastery - Christian Lüdemann (Fokus auf Best Practices)](https://christianlydemann.com/angular-mastery-book/)
 - [Angular Testing Book - Daniel Kreider](https://subscribepage.io/angular_testing_book)
 - [Angular Performance Guide - Daniel Kreider](https://subscribepage.io/angular_performance)
-  
+- Einführung in Angular von Manfred Steyer (Stand Angular 13)
+  (Verfügbar über den [Newsletter](https://www.angulararchitects.io/ebooks/angular-praktische-einfuehrung/)
+- Enterprise Angular (Stand Angular 17)
+  (Verfügbar über Newsletter: https://www.angulararchitects.io/ebooks/micro-frontends-and-moduliths-with-angular/) oder als GitHub Repo
+- Angular Standalone Components (Stand Angular 16)
+  (Verfügbar über Newsletter: https://www.angulararchitects.io/ebooks/anguar-standalone-components-and-apis/) oder als GitHub Repo
+- Testing Angular (Stand Angular 13 - für den Test-Bereich aber aktuell) (Homepage: https://testing-angular.com/)
+
+### Kostenpflichtig
+
+- ng-book - Ebook verlegt über jetzt https://www.newline.co/ng-book/2/ (Stand Angular 11)
+- [Tip: Become a Ninja with Angular](https://books.ninja-squad.com/angular)
+- Angular - Das große Praxisbuch im DPunkt-Verlag (https://angular-buch.com/) (Stand Angular 16 mit Zusatzdownloads für v17)
+- Angular - Das umfassende Handbuch im Rheinwerk-Verlag (https://www.rheinwerk-verlag.de/angular-das-umfassende-handbuch/) (Stand Angular 13)
+
 ## Tutorials
 
 * [Angular Challenges](https://github.com/tomalaforge/angular-challenges)
@@ -113,16 +129,17 @@ vielleicht werden sie ja irgendwann nochmal "repariert" ;-)
 ## RxJS
 
 - [Homepage](https://rxjs.dev/)
-
+- [Marbles zum Verständnis der Operatoren](https://rxmarbles.com/)
+  
 Die Haupt-Schwierigkeit bei vielen Artikeln und Tutorials ist für uns oft, einzugrenzen
 welcher API-Version der jeweilige Autor folgt. Alles vor der RxJS-Version 6 ist definitiv
 veraltet (Wechsel im Früjahr 2018 mit Angular 6). Version 7 kam im Frühjahr 2021 heraus,
 Angular wechselte im Herbst mit dem 13er Release.
 
-Die mit Angular 16 eingeführten [Signals](https://angular.io/guide/signals) (aktuell noch
-Developer Preview) werden sicherlich eine relevante Veränderung in der Nutzung von RxJS
-haben. Synchrone reaktive State-Programmierung wird wesentlich einfacher mit Signalen zu
-implementieren sein.
+Die mit Angular 16 eingeführten [Signals](https://angular.io/guide/signals) (damals noch
+Developer Preview) sind eine relevante Veränderung in der Nutzung von RxJS.
+Synchrone reaktive State-Programmierung ist wesentlich einfacher mit Signalen zu
+implementieren.
 
 ### Tutorials
 
@@ -216,7 +233,7 @@ setzen. Oft werden solche Lösungen beim globalen State-Management eingesetzt:
 * [NGXS](https://www.ngxs.io/)
 * [Akita](https://opensource.salesforce.com/akita/)
 * [RxAngular State](https://www.rx-angular.io/docs/state)
-* [Tanstack Query](https://tanstack.com/query/latest/docs/framework/angular/overview) - Noch experimentell bezeichnet
+* [Tanstack Query](https://tanstack.com/query/latest/docs/framework/angular/overview) 
 
 In obiger Liste ist Elf die schlankeste Lösung, NGRX sicherlich die mächtigste - aber
 auch komplexeste Variante. Der Rest liegt irgendwo dazwischen.
@@ -224,6 +241,7 @@ auch komplexeste Variante. Der Rest liegt irgendwo dazwischen.
 Als Ausgangspunkt zum Stöbern nach kleineren (und größeren) Lösungen für andere Aufgaben
 im Umfeld von Angular Anwendungen empfehle ich als Startpunkt
 
++ [ngxtension](https://ngxtension.netlify.app/)
 * [NgNeat](https://github.com/ngneat)
 
 ## UI Libraries
